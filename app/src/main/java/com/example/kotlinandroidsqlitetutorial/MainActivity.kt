@@ -9,7 +9,7 @@ import android.content.DialogInterface
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 
-
+// The app was created following https://www.javatpoint.com/kotlin-android-sqlite-tutorial
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
