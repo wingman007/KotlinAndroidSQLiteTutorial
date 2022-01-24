@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Kotlin Android SQLite Tutorial</string>
+    <string name="u_id">User Id</string>
 </resources>
